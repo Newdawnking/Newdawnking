@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Newdawnking
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Design and development 
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Javascript and ReactJs
 - 📫 How to reach me Linkedin: https://www.linkedin.com/in/adeaga-david
